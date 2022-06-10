@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![Profile badge](https://www.codewars.com/users/graffias/badges/Zaffias)](https://www.codewars.com/users/Zaffias)
+[![Profile badge](https://www.codewars.com/users/Zaffias/badges/large)](https://www.codewars.com/users/Zaffias)

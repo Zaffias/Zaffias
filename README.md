@@ -1,6 +1,4 @@
-## Hi, nice to meet you 👌
-
-### My name is Ruben
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4342FF&lines=Hi+there%2C+I'm+Ruben++(%E2%97%8F'%E2%97%A1'%E2%97%8F);Nice+to+meet+you+)](https://git.io/typing-svg)
 
 
 [![Profile badge](https://www.codewars.com/users/Zaffias/badges/large)](https://www.codewars.com/users/Zaffias)
